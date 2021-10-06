@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parlojanmihai
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on interesting projects for gaining experience to land my first coding job🧑‍💻
+- 💞️ I’m looking to collaborate on interesting projects for gaining more experience🧑‍💻
 - 📫 How to reach me parlojanmihai@gmail.com
 
 <!---
